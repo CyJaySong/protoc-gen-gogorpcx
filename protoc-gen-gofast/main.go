@@ -30,7 +30,7 @@ package main
 
 import (
 	"github.com/gogo/protobuf/vanity"
-	"github.com/rpcxio/protoc-gen-gogorpcx/command"
+	"github.com/cyjaysong/protoc-gen-gogorpcx/command"
 )
 
 func main() {

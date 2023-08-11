@@ -1,4 +1,4 @@
-module github.com/rpcxio/protoc-gen-gogorpcx
+module github.com/cyjaysong/protoc-gen-gogorpcx
 
 go 1.14
 
